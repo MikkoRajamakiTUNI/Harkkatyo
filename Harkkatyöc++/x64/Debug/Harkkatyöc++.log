@@ -1,0 +1,3 @@
+﻿  Harkkatyö.cpp
+C:\Users\Mikko\source\repos\Harkkatyöc++\Harkkatyöc++\Harkkatyö.cpp(25,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Harkkatyöc++.vcxproj -> C:\Users\Mikko\source\repos\Harkkatyöc++\x64\Debug\Harkkatyöc++.exe
